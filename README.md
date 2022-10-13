@@ -1,3 +1,3 @@
 # yt-downloader
 
-Basic YT video downloader using express Node.js & ejs
+Basic YT video downloader using Express Node.js & EJS
